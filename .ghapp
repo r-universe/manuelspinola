@@ -1,0 +1,10 @@
+{
+  "id": 85266756,
+  "created_at": "2025-09-10T15:56:13.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["manuelspinola.r-universe.dev"]
+}
