@@ -4,11 +4,5 @@
     "url": "https://github.com/ManuelSpinola/paisaje",
     "via": ["h3sdm"],
     "from": "h3sdm"
-  },
-  {
-    "package": "spDataLarge",
-    "url": "https://github.com/Nowosad/spDataLarge",
-    "via": ["h3sdm"],
-    "from": "h3sdm"
   }
 ]
