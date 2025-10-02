@@ -8,7 +8,3 @@
 [submodule "paisaje"]
 	path = paisaje
 	url = https://github.com/ManuelSpinola/paisaje
-[submodule "waffle"]
-	path = waffle
-	url = https://github.com/hrbrmstr/waffle
-	registered = false
